@@ -56,9 +56,14 @@ I've always been a fan of Apple, however, it appears the power to cost ratio wil
 7. Add SATA cable
 8. Add SSD to Harddrive
 
-- [ ] ~~Bios~~ UEFI (Unified Extensible Firmware Interface) 
+- [X] ~~Bios~~ UEFI (Unified Extensible Firmware Interface) 
 9. Download BIOS driver [Guide](https://www.asus.com/support/FAQ/1038568/)
 10.  Update BIOS driver
+- [X] BIOS Settings
+11. Legacy USB Support -> Auto **NOTE** Located in Advanced -> USB onfiguration
+12. EHCI Hand-off -> Enabled **NOTE** Located in Advanced -> USB onfiguration
+13. Intel xHCI Mode -> "Smart Auto" / "Enabled" both works **NOTE** Located in Advanced -> USB onfiguration
+14. OS Type -> Other OS **NOTE** Located in Boot -> Secure Boot
 - [ ] Formate Harddrive
 - [ ] Build Operating System
 
