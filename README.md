@@ -1,10 +1,8 @@
 
 
-
-
-
-
-![Hackintosh](/hackintosh.png.png)
+<p align="center">
+<img src="/hackintosh.png.png" width="200">
+</p>
 
 # Hackintosh
 
