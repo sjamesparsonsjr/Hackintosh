@@ -43,6 +43,7 @@ I've always been a fan of Apple, however, it appears the power to cost ratio wil
 [Sabertooth z87 guide](https://www.tonymacx86.com/threads/success-asus-sabertooth-z87-i7-4970k.227775/)
 
 [Flash BIOS](https://www.youtube.com/watch?v=0Po88MpYhhw)
+<a href="https://www.youtube.com/watch?v=0Po88MpYhhw" target="_blank">Flash BIOS</a>
 
 ## Steps
 - [x] **Hardware**
