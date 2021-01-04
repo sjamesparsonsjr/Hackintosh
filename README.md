@@ -57,7 +57,7 @@ I've always been a fan of Apple, however, it appears the power to cost ratio wil
 8. Add SSD to Harddrive
 
 - [ ] ~~Bios~~ UEFI (Unified Extensible Firmware Interface) 
-9. Download BIOS driver
+9. Download BIOS driver [Guide](https://www.asus.com/support/FAQ/1038568/)
 10.  Update BIOS driver
 - [ ] Formate Harddrive
 - [ ] Build Operating System
