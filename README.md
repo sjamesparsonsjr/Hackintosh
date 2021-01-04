@@ -45,6 +45,8 @@ I've always been a fan of Apple, however, it appears the power to cost ratio wil
 [Flash BIOS](https://www.youtube.com/watch?v=0Po88MpYhhw)
 <a href="https://www.youtube.com/watch?v=0Po88MpYhhw" target="_blank">Flash BIOS</a>
 
+[Sabertooth PDF](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjz--e8rYPuAhUBm1kKHRimDSAQFjAAegQIBRAC&url=https%3A%2F%2Fwww.pugetsystems.com%2Ffiles%2F3435%2Fparts%2FMotherboard%2FAsus-Sabertooth-Z87-9474%2FE7868_SAbertooth_Z87.pdf&usg=AOvVaw0q3tLwz9cgDImUOMhCfkg8)
+
 ## Steps
 - [x] **Hardware**
 1. Add power supply to case
@@ -64,6 +66,15 @@ I've always been a fan of Apple, however, it appears the power to cost ratio wil
 12. EHCI Hand-off -> Enabled **NOTE** Located in Advanced -> USB onfiguration
 13. Intel xHCI Mode -> "Smart Auto" / "Enabled" both works **NOTE** Located in Advanced -> USB onfiguration
 14. OS Type -> Other OS **NOTE** Located in Boot -> Secure Boot
+15. Log into BIOS and select Clover Bot from EFI **NOTE** Seems the USB 2.0 port on the case wont work, but the 3.0 port on the case worked.
+
+
+First run with Clover, loged into MacOS external. 
+
+
+
+
+
 - [ ] Formate Harddrive
 - [ ] Build Operating System
 
