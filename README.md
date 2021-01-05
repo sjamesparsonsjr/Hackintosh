@@ -24,18 +24,18 @@ I've always been a fan of Apple, however, it appears the power to cost ratio wil
 |--|--|--|--|
 |Fans |https://amzn.to/2LkDNhD |$15.00| |
 |SATA Cable|https://amzn.to/389ZidV  |$7.00 | |
-|WiFi |  |$22.99 | |
 | Power Supply|https://amzn.to/38aYzZS|$64.99|  |
 |1 TB SSD Harddrive|https://amzn.to/2JMCAzc|99.99||
 |16gb Corsair Vengeance LP Ram|https://amzn.to/2XaMI80|$66.99||
+|Wifi Card|https://amzn.to/38hvE6u|$49.99||
 
 ### InOs Local PC Repairshop
 |Hardware|Link  |Cost| Notes|
 |--|--|--|--|
 |GAMDIAS Case||$45.00| 50% off for damage|
 
-## Total $522
-
+## Total $549
+<span style="color:red">*$549*</span>.
 
 ## Support Websites
 [Things to know](https://www.tonymacx86.com/threads/file-structure-some-of-the-things-i-wish-i-knew-before-starting.272699/)
