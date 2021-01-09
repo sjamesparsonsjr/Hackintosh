@@ -68,8 +68,13 @@ I've always been a fan of Apple, however, it appears the power to cost ratio wil
 14. OS Type -> Other OS **NOTE** Located in Boot -> Secure Boot
 15. Log into BIOS and select Clover Bot from EFI **NOTE** Seems the USB 2.0 port on the case wont work, but the 3.0 port on the case worked.
 
-
 First run with Clover, loged into MacOS external. 
+16. Install Mac OS X using Clover.
+17. Using MultiBeast install boot path, the allows for the USB boot drive to be removed.
+18. Following Instalation Guide
+19. **NETWORK** Error, there WIFI was not highilghted.
+
+20. Downloaded Hackintool 3.4.9 [Youtube](https://www.youtube.com/watch?v=4lE3UXVcMjc)
 
 
 
