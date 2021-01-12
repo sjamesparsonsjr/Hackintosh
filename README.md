@@ -72,12 +72,17 @@ First run with Clover, loged into MacOS external.
 16. Install Mac OS X using Clover.
 17. Using MultiBeast install boot path, the allows for the USB boot drive to be removed.
 18. Following Instalation Guide
-19. **NETWORK** Error, there WIFI was not highilghted.
+
+**NETWORK** Error, the WIFI card is not found, and therefore the Wi-Fi option on the MacOS install was greyed out.
+**Trouble Shooting**
+- Installed Mac OS X Catalina with ethernet only. 
+- Inspected the hardware using *System Report*; it showed no PCI Wi-Fi but I did show USB-3 Bluetooth and the Broadcom chip.  I concluded that the PCI might be the issue.  So the **SOLUTION** whiched worked was to switched the PCI card and reinstalled Mac OS X Catlina 
 
 20. Downloaded Hackintool 3.4.9 [Youtube](https://www.youtube.com/watch?v=4lE3UXVcMjc)
 
 
-
+Fixing Sleep, and Graphics
+[Boot Fix](https://www.youtube.com/watch?v=nDmh8QB8Bss&feature=emb_title)
 
 
 - [ ] Formate Harddrive
