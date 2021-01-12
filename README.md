@@ -68,7 +68,7 @@ I've always been a fan of Apple, however, it appears the power to cost ratio wil
 14. OS Type -> Other OS **NOTE** Located in Boot -> Secure Boot
 15. Log into BIOS and select Clover Bot from EFI **NOTE** Seems the USB 2.0 port on the case wont work, but the 3.0 port on the case worked.
 
-First, run with Clover, log into macOS external. 
+- [ ] First run with Clover, log into macOS external. 
 16. Install Mac OS X using Clover. 
 17. Using the MultiBeast install boot path allows for the USB boot drive to be removed. 
 18. Following Installation Guide
@@ -78,20 +78,16 @@ First, run with Clover, log into macOS external.
 -Installed Mac OS X Catalina with ethernet only.
 -Inspected the hardware using System Report; it showed no PCI Wi-Fi but I did show USB-3 Bluetooth and the Broadcom chip. I concluded that the PCI might be the issue. So the **SOLUTION** which worked was to switch the PCI card and reinstalled Mac OS X Catalina
 
+- [ ] KText
+19. [Fix Sleep](https://www.youtube.com/watch?v=nDmh8QB8Bss&feature=emb_title)
 
-20. Downloaded Hackintool 3.4.9 [Youtube](https://www.youtube.com/watch?v=4lE3UXVcMjc)
+20. Fix Graphics issue; refresh, buffereing, and OnShape [Downloaded Hackintool 3.4.9](https://www.youtube.com/watch?v=4lE3UXVcMjc)
 
+21. [Install Applications]()<-- GitHub Link
 
-Fixing Sleep, and Graphics
-[Boot Fix](https://www.youtube.com/watch?v=nDmh8QB8Bss&feature=emb_title)
+22. [Learn about smbios]
 
-
-- [ ] Formate Harddrive
-- [ ] Build Operating System
-
-
-
-## Manual
+23. [OpenCore vs Clover]
 
 
 ## Authors
