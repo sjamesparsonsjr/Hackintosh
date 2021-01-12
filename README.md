@@ -68,15 +68,16 @@ I've always been a fan of Apple, however, it appears the power to cost ratio wil
 14. OS Type -> Other OS **NOTE** Located in Boot -> Secure Boot
 15. Log into BIOS and select Clover Bot from EFI **NOTE** Seems the USB 2.0 port on the case wont work, but the 3.0 port on the case worked.
 
-First run with Clover, loged into MacOS external. 
-16. Install Mac OS X using Clover.
-17. Using MultiBeast install boot path, the allows for the USB boot drive to be removed.
-18. Following Instalation Guide
+First, run with Clover, log into macOS external. 
+16. Install Mac OS X using Clover. 
+17. Using the MultiBeast install boot path allows for the USB boot drive to be removed. 
+18. Following Installation Guide
 
-**NETWORK** Error, the WIFI card is not found, and therefore the Wi-Fi option on the MacOS install was greyed out.
+**NETWORK** Error, the WIFI card was not found, and therefore the Wi-Fi option on the macOS install was greyed out. 
 **Trouble Shooting**
-- Installed Mac OS X Catalina with ethernet only. 
-- Inspected the hardware using *System Report*; it showed no PCI Wi-Fi but I did show USB-3 Bluetooth and the Broadcom chip.  I concluded that the PCI might be the issue.  So the **SOLUTION** whiched worked was to switched the PCI card and reinstalled Mac OS X Catlina 
+-Installed Mac OS X Catalina with ethernet only.
+-Inspected the hardware using System Report; it showed no PCI Wi-Fi but I did show USB-3 Bluetooth and the Broadcom chip. I concluded that the PCI might be the issue. So the **SOLUTION** which worked was to switch the PCI card and reinstalled Mac OS X Catalina
+
 
 20. Downloaded Hackintool 3.4.9 [Youtube](https://www.youtube.com/watch?v=4lE3UXVcMjc)
 
