@@ -27,7 +27,8 @@ I've always been a fan of Apple, however, it appears the power to cost ratio wil
 | Power Supply|https://amzn.to/38aYzZS|$64.99|  |
 |1 TB SSD Harddrive|https://amzn.to/2JMCAzc|99.99||
 |16gb Corsair Vengeance LP Ram|https://amzn.to/2XaMI80|$66.99||
-|Wifi Card|https://amzn.to/38hvE6u|$49.99||
+|WiFi Card BCM94360CD |https://amzn.to/38hvE6u|$49.99||
+| ASUS NVIDIA GeForce GT 710 Graphics Card | https://amzn.to/3p60hlw||
 
 ### InOs Local PC Repairshop
 |Hardware|Link  |Cost| Notes|
