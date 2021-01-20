@@ -83,6 +83,7 @@ I've always been a fan of Apple, however, it appears the power to cost ratio wil
 19. [Fix Sleep](https://www.youtube.com/watch?v=nDmh8QB8Bss&feature=emb_title)
 
 20. Fix Graphics issue; refresh, buffereing, and OnShape [Downloaded Hackintool 3.4.9](https://www.youtube.com/watch?v=4lE3UXVcMjc)
+- Kext solved all the video issues on TABs and OnShape.com
 
 21. [Install Applications]()<-- GitHub Link
 
