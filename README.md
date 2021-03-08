@@ -103,7 +103,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## AppStore
 [Find the Completed App Here](https://apps.apple.com/us/app/qurrent/id1234567)
 
-
+//------------------------------------------------------------------------- 
+**NOTES**: https://github.com/corpnewt/gibMacOS was used to make the thumb drive
 
 
 
