@@ -85,11 +85,13 @@ I've always been a fan of Apple, however, it appears the power to cost ratio wil
 20. Fix Graphics issue; refresh, buffereing, and OnShape [Downloaded Hackintool 3.4.9](https://www.youtube.com/watch?v=4lE3UXVcMjc)
 - Kext solved all the video issues on TABs and OnShape.com
 
-21. [Install Applications]()<-- GitHub Link
+21. Fix slow Wi-Fi issues.  **Turn off 'Wake for network access', System Preference -> Energy Saver - Check Box**
 
-22. [Learn about smbios]
+xx. [Install Applications]()<-- GitHub Link
 
-23. [OpenCore vs Clover]
+xx. [Learn about smbios]
+
+xx. [OpenCore vs Clover]
 
 
 ## Authors
