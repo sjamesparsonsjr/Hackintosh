@@ -15,7 +15,7 @@ I've always been a fan of Apple, however, it appears the power to cost ratio wil
 ### Facebook Marketplace $200
 |Hardware|Link  |Cost| Notes|
 |--|--|--|--|
-|Intel i7 4770k  | https://intel.ly/3bb0ekc  | $37.50|$75 on Ebay code name Haswell |
+|Intel i7 4770k (socket 1150) | https://intel.ly/3bb0ekc  | $37.50|$75 on Ebay code name Haswell |
 |Asus Sabertooth z87  | https://bit.ly/3pP4cD5 |$85.68 |$180 on Ebay|
 | 16gb Corsair Vengeance LP Ram | https://bit.ly/35c6dRU | $33.32|$70 on Ebay |
 | Corsair Water Cooling Pump and Radiator| |$45.22|$95 on Ebay| 
